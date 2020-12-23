@@ -1,6 +1,7 @@
 numpy
 scipy
 jupyter
+notebook
 matplotlib
 Pillow
 scikit-learn
